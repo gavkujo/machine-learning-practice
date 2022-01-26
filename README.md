@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Here you will find me going about Model evaluation, linear regression and much more advanced topics. <br />
+> Here you will find me going about Model evaluation, linear regression and much more advanced topics. <br/><br/>
 > I am already fairly well versed in opencv, pandas, tf (slightly), scikit_learn, seaborn, and a bit of pytorch. I was thinking of upload my notes and assignments related to that also but oh well. These topics are heavily used in the files in this repository so please do check those topics before looking in! :)<br />
 
 ## A log for the topics i have covered till now:
@@ -23,3 +23,4 @@
 -   Github: [@gavkujo](https://github.com/gavkujo)
 
 <h2 align="center">Thank You for visiting this repository</h2>
+<h5 align="center">(for some reason i cant connect my github to my jupyter nb so i would have to constantly delete and reupload the new file whenever i make some changes. so i have decided to only commit changes when i am done with a topic so that i wouldnt have to constantly come back and delete and upload the files.)</h5>
