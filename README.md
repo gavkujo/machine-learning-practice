@@ -2,7 +2,7 @@
 <h5 align="center">This is where i practice and upload notes and assignments and minor projects that i create and do which are related to machine learning.</h3>
 <p>
   <a href="#" target="_blank">
-    <img alt="Do Not Use Steal" src="https://img.shields.io/badge/License-MIT-blue.svg" />
+    <img alt="Do Not Use Steal" src="https://img.shields.io/badge/Do%20Not%20Steal-(Only%20Read)-red" />
   </a>
 </p>
 
