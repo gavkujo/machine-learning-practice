@@ -14,6 +14,7 @@
 -   [x] Regression models
 -   [x] Model evaluation metrics
 -   [x] Linear Regression Prediction
+-   [x] Gradient Descent
 
 ## Authors
 
