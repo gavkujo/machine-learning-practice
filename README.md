@@ -15,6 +15,7 @@
 -   [x] Model evaluation metrics
 -   [x] Linear Regression Prediction
 -   [x] Gradient Descent
+-   [x] Implementaion and Assumptions of Linear regression Models
 
 ## Authors
 
