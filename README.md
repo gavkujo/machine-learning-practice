@@ -16,6 +16,7 @@
 -   [x] Linear Regression Prediction
 -   [x] Gradient Descent
 -   [x] Implementaion and Assumptions of Linear regression Models
+-   [x] Feature Engineering
 
 ## Authors
 
