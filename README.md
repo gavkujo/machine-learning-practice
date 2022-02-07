@@ -11,14 +11,14 @@
 
 ## A log for the topics i have covered till now:
 
--   [x] Regression models (regression model)
--   [x] Model evaluation metrics (regression model)
--   [x] Linear Regression Prediction (regression model)
--   [x] Gradient Descent (regression model)
--   [x] Implementaion and Assumptions of Linear regression Models (regression model)
--   [x] Feature Engineering (regression model)
--   [x] Common Dimensionality Reduction Algorithms (Dimensionality Reduction Algorithms)
--   [x] Advanced Dimensionality Reduction Algorithms (Dimensionality Reduction Algorithms)
+-   [x] Regression models
+-   [x] Model evaluation metrics
+-   [x] Linear Regression Prediction
+-   [x] Gradient Descent
+-   [x] Implementaion and Assumptions of Linear regression Models
+-   [x] Feature Engineering
+-   [x] Common Dimensionality Reduction Algorithms
+-   [x] Advanced Dimensionality Reduction Algorithms
 
 ## Authors
 
