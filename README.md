@@ -15,10 +15,12 @@
 -   [x] Model evaluation metrics
 -   [x] Linear Regression Prediction
 -   [x] Gradient Descent
--   [x] Implementaion and Assumptions of Linear regression Models
+-   [x] Assumptions of Linear regression Models
 -   [x] Feature Engineering
 -   [x] Common Dimensionality Reduction Algorithms
 -   [x] Advanced Dimensionality Reduction Algorithms
+-   [x] Logistic Regression
+-   [x] Evaluation Metrics of Logistic Regression
 
 ## Authors
 
