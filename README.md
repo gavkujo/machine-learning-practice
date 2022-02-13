@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Here you will find me going about Model evaluation, linear regression and much more advanced topics. <br/><br/>
+> Here you will find me going about Machine Learning topics and some small induvidual Projects. <br/><br/>
 > I am already fairly well versed in opencv, pandas, tf (slightly), scikit_learn, seaborn, and a bit of pytorch. I was thinking of upload my notes and assignments related to that also but oh well. These topics are heavily used in the files in this repository so please do check those topics before looking in! :)<br />
 
 ## A log for the topics i have covered till now:
