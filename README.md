@@ -21,6 +21,8 @@
 -   [x] Advanced Dimensionality Reduction Algorithms
 -   [x] Logistic Regression
 -   [x] Evaluation Metrics of Logistic Regression
+-   [x] Decision Trees
+-   [x] Pruning/Hyperparameter Tuning of Decision Trees
 
 ## Authors
 
