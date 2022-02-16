@@ -23,6 +23,8 @@
 -   [x] Evaluation Metrics of Logistic Regression
 -   [x] Decision Trees
 -   [x] Pruning/Hyperparameter Tuning of Decision Trees
+-   [x] Ensemble Models
+-   [x] Boostrapping, Bagging and Random Forest alg.
 
 ## Authors
 
