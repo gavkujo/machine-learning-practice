@@ -25,6 +25,8 @@
 -   [x] Pruning/Hyperparameter Tuning of Decision Trees
 -   [x] Ensemble Models
 -   [x] Boostrapping, Bagging and Random Forest alg.
+-   [x] Clustering (Unsupervised learning)
+-   [x] K-Means
 
 ## Authors
 
